@@ -1,0 +1,4 @@
+com\hcl\app\sample_hibernate_application\App.class
+com\hcl\app\domainVO\Items.class
+com\hcl\app\domainVO\Order.class
+com\hcl\app\domainVO\Customer.class

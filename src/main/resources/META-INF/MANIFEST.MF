@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path:
+Main-Class: com.hcl.app.sample_hibernate_application.App.java
+
